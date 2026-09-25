@@ -1,0 +1,31 @@
+// ABIR HOWLADER (Next_U)
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+#define yes cout << "YES\n";
+#define no cout << "NO\n";
+#define endl '\n'
+#define frr(w, n) for (int i = w; i < n; i++)
+
+const int MOD = 1e9 + 7;
+const int N = 1e6 + 5;
+
+void Next_U()
+{
+
+}
+
+signed main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int t;
+    cin >> t;
+    while (t--)
+        Next_U();
+
+    return 0;
+}
